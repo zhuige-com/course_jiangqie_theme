@@ -1,0 +1,11 @@
+test 目录是为了测试，做的一个“主题”。
+
+假设有一个分类别名是 zhuige，ID是 2。
+
+启用 test 主题。然后，在分类列表中，点击“追格”分类的“查看”。
+
+可以看到输出 category-zhuige.php，证明是 category-zhuige.php 文件在处理。
+
+删除 category-zhuige.php，刷新一下页面，可以看到输出 category-2.php ……
+
+依次验证就可以了……
