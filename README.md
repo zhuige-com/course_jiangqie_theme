@@ -13,4 +13,4 @@
 
 微信客服：jianbing2011（加微信，进微信群交流）
 
-<img src="https://www.zhuige.com/ad/qrcode.png" alt="扫码加微信/关注公众号" width="600" height="370" />
+<img src="https://www.zhuige.com/ad/qrcode2.png" alt="扫码加微信/关注公众号" width="600" height="370" />
