@@ -437,10 +437,10 @@ function the_first_seo_title()
 function the_first_setup_seo()
 {
     //关键字
-    add_action('wp_head', 'jiangqie_seo_keywords');
+    add_action('wp_head', 'the_first_seo_keywords');
 
     //页面描述 
-    add_action('wp_head', 'jiangqie_seo_description');
+    add_action('wp_head', 'the_first_seo_description');
 }
 add_action('after_setup_theme', 'the_first_setup_seo');
 
